@@ -9,7 +9,7 @@ This project focuses on analyzing sales data from a superstore to uncover busine
 - Visualization & Dashboarding: Using Power BI to create an interactive dashboard for insights.
 
 # Files in the Repository
-- Sample - Superstore.xls → The dataset containing sales records.
+- Sample - Superstore.xls → The dataset containing sales records.<a href = "https://github.com/MandalaMukesh04/Sales-and-Profit-Analysis/blob/main/Sample%20-%20Superstore.xls">Dataset
 - first project.pbix → Power BI dashboard file for data visualization.
 
 # Setup & Usage
