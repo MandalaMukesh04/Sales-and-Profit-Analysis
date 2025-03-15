@@ -19,6 +19,11 @@ This project focuses on analyzing sales data from a superstore to uncover busine
 # Open the Power BI file (first project.pbix) to explore the interactive dashboard.
 - <a href = "https://github.com/MandalaMukesh04/Sales-and-Profit-Analysis/blob/main/first%20project.pbix">Dashboard
 
+![Image](https://github.com/user-attachments/assets/5ae6becf-7daa-480f-b24e-3c9698012871)
+
+
+![Image](https://github.com/user-attachments/assets/d5969a50-cedf-4d95-9da6-7fad4282b851)
+
 # Insights Gained
 - Sales distribution across different regions and customer segments.
 - High-performing product categories.
