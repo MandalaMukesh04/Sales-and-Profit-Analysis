@@ -58,6 +58,10 @@ To set up and use this Power BI project:
    - Refresh data in Power BI to update the visuals.
 4. **Explore Dashboards**: Navigate through reports to analyze sales and business trends.
 
+![Image](https://github.com/user-attachments/assets/3f34f5c6-2f09-4714-bfcb-ae5777d64436)
+
+![Image](https://github.com/user-attachments/assets/c7d1e151-4de4-46d5-8442-821562bf725a)
+
 ## References
 - [Power BI Documentation](https://docs.microsoft.com/en-us/power-bi/)
 - [DAX Guide](https://dax.guide/)
