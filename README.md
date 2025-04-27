@@ -20,7 +20,7 @@ This project follows a structured approach for business intelligence analysis:
    - Implemented key performance indicators (KPIs) for business tracking.
 
 ## Data Source
-The project uses the following datasets:
+The project uses the following datasets.
 - **Sample Superstore (Excel File)**: Contains data on sales, customers, products, and regional performance.
 - **Power BI Query Editor**: Used for data cleaning and transformation.
 
